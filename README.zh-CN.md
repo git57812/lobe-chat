@@ -1,7 +1,9 @@
 <div align="center"><a name="readme-top"></a>
+<div align="center"><a name="readme-top"></a>
 
 [![][image-banner]][vercel-link]
 
+<h1>Lobe Chat</h1>
 <h1>Lobe Chat</h1>
 
 现代化设计的开源 ChatGPT/LLMs 聊天应用与开发框架<br/>
